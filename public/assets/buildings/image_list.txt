@@ -1,0 +1,23 @@
+
+Kopiere deine Bilder in diesen Ordner. 
+Damit das Spiel sie automatisch erkennt, müssen sie exakt so heißen (für den Standard-Skin):
+
+COMMAND_CENTER_default.png
+NANO_FOUNDRY_default.png
+HYDROPONICS_default.png
+CREDIT_TERMINAL_default.png
+NANO_VAULT_default.png
+BIO_SILO_default.png
+BARRACKS_default.png
+MED_BAY_default.png
+SHIELD_GENERATOR_default.png
+TERRA_FACTORY_default.png
+AERO_DOCK_default.png
+CYBER_UPLINK_default.png
+RADAR_STATION_default.png
+TECH_LAB_default.png
+ALLIANCE_HUB_default.png
+
+Falls du Skins hast (z.B. 'cyber'), wäre der Name:
+COMMAND_CENTER_cyber.png
+usw.

@@ -1,0 +1,7 @@
+
+Kopiere dein Hintergrundbild hier hinein.
+
+Erwarteter Dateiname:
+station_map.png
+
+Das Bild sollte idealerweise ein Seitenverhältnis haben, das gut auf Mobile/Desktop passt (oder eine hohe Auflösung, da es zentriert wird).
